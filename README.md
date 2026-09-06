@@ -1,6 +1,6 @@
 # Amazon-Prime-EDA
 
-[![Open In Colab](https://colab.research.google.com/drive/1f08-7r381B-UY0jMdStqOFtQMxzTmWD7?usp=sharing)
+🔗 **Colab Notebook Link:** [Open in Google Colab](https://colab.research.google.com/drive/1f08-7r381B-UY0jMdStqOFtQMxzTmWD7?usp=sharing)
 
 This project analyzes Amazon Prime Video's content catalogue (titles + credits)
 to find trends in genres, ratings, and content growth over time.
@@ -16,7 +16,7 @@ strategists, marketing teams, and investors.
 - `credits.csv` - ~124K actor/director credits for those titles
 
 ## Notebook
-Click the badge above to open and run the notebook directly in Google Colab.
+Click the link above to open and run the notebook directly in Google Colab.
 
 ## Key Tools Used
 - Python
